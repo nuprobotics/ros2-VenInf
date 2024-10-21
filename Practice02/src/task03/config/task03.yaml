@@ -1,0 +1,4 @@
+/**:
+  ros__parameters:
+    default_string: "No service available"
+    service_name: "/trigger_service"
